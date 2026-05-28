@@ -1,0 +1,6 @@
+{
+  "name": "Finura",
+  "description": "Sophisticated modern investment dashboard tracker for stocks, funds, and retirement assets under a premium, trustworthy design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
